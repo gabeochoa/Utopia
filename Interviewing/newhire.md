@@ -1,9 +1,10 @@
 If the person is a new hire (college/junior dev):
 
 
-Two tracks:
+##Two tracks:
 
-1. project track
+###project track
+
 - first round:
     - give a simple (1-2day) project and see what they come up with
     - assign any dev to look at the project and decide fate
@@ -21,7 +22,7 @@ Two tracks:
 - third round:
     - adding more features to the project from the last interview
 
-2. interview route
+### interview route
 - phone interview:
     - int will be asked basic data structure questions (ask for impl)
     - they should come out of the interview thinking it was easy
@@ -64,7 +65,7 @@ Two tracks:
 
 - second half (1-3)
     - two interviews in basic whiteboard fashion
-    - 
+    
 - decision (4-6)
     - everyone must enter any notes they have into the system
     - rate candidates:  hire, maybe, no
