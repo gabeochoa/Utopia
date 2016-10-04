@@ -34,5 +34,27 @@ FCS: (http://joelonsoftware.com/articles/ladder.html)
   - salary fudgeing is solved by offering a higher first year bonus (guaranteed)
   - "If you hear a lot of complaints about salaries, I suspect ... Your employees aren't deriving enough personal satisfaction from their work"
   
-
-
+SO: https://blog.stackoverflow.com/content/Stack-Exchange-Developer-Compensation.pdf
+  - "Fair means no games." Period. 
+  - based on:
+    1. Skills: how good you are at what you do
+      - re-evaluated every summer by your direct manager (see chart^^)
+    2. Scope: how much stuff you’re responsible for
+      - Newbie (told what to do), Contributor (knows what to do), Architect (designs what to do)
+    3. Experience: how long you’ve been a programmer
+      - group by 5 year chunks
+      - time spent doing nonprogramming jobs doesnt count
+      - time in college (ie internships/coop) doesnt count
+    4. Company size: small companies tend to pay less than large
+      - look at companies with similar number of employees
+    5. Location: every geography has its own market salary
+      - Locations all get paid the same, but with exceptions (NY/SV/Lon paid a little more)
+        - this is done to avoid encouraging people to move out into the middle of nowhere to bank money
+    6. Public artifacts: how much you work in public and how well known you are inb the community
+      - Participating in SO/Stack Exchange sites
+      - Contributing to open source
+      - attending conferences (speaking, participating, going)
+      - podcasting (tech)
+      - attending hackathons or dev meetups
+  
+ 
