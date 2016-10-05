@@ -1,5 +1,6 @@
 # Vacation
 
+TODO # define vacation policy
 
 ##### Notes
   - ZenPayroll - "we trust and respect our employees and so we allow them to decide whats best for themselves"
