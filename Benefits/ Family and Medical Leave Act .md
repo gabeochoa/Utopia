@@ -1,18 +1,6 @@
+# FMLA
 
-# Non personal medical leave 
-
-## Situations 
- - New Born Child, Adoption (or Foster Care) -  (Maternity, Paternity)
- - To care for a family member (child, parent, dependent)
- - Family member on active duty
-
-## Benifits
-  - unpaid leave for up to a 12 work-weeks in a 12 month period 
-  - 
-  
-  
-
-## FMLA [Family and Medical Leave Act](https://www.dol.gov/whd/regs/compliance/whdfs28.pdf)
+### from: [Family and Medical Leave Act](https://www.dol.gov/whd/regs/compliance/whdfs28.pdf)
 
 - applies to companies:
   - any public agency or school
