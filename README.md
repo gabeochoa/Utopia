@@ -9,14 +9,15 @@ However, when you have 98% of what you want, that last 2% starts to bother you.
 This is my 2%
 
 
-Done(ish):
+Things I worked on(ish):
 
 - [x] new hire interview
 - [x] basic salary research
 - [x] basic benefits research
 
-Todo:
+Things to add:
 
+- [ ] open data
 - [ ] snax
 - [ ] vacation strategy
 - [ ] badging / timing employee work
