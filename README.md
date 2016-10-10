@@ -9,6 +9,26 @@ However, when you have 98% of what you want, that last 2% starts to bother you.
 This is my 2%
 
 
+Done(ish):
+
+- [x] new hire interview
+- [x] basic salary research
+- [x] basic benefits research
+
+Todo:
+
+- [ ] snax
+- [ ] vacation strategy
+- [ ] badging / timing employee work
+- [ ] appointments / calendar transparency
+- [ ] company "fb" of sorts
+- [ ] chat system
+- [ ] branded swag
+
+
+
+
+
 <sup>* not intended to cover all legal cases</sup>
 
 
