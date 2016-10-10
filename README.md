@@ -9,7 +9,7 @@ However, when you have 98% of what you want, that last 2% starts to bother you.
 This is my 2%
 
 
-Things I worked on(ish):
+Things I worked on:
 
 - [x] new hire interview
 - [x] basic salary research
