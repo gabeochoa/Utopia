@@ -25,7 +25,7 @@ Things to add:
 - [ ] company "fb" of sorts
 - [ ] chat system
 - [ ] branded swag
-
+- [ ] in house wiki / StackOverflow 
 
 
 
