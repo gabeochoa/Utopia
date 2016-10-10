@@ -1,6 +1,6 @@
 # Utopia
 
-#####Desiging the perfect company, one commit at a time
+#### Desiging the perfect company, one commit at a time
 
 Very many of us are fortunate enough to work at amazing companies that treat their employees well. 
 
