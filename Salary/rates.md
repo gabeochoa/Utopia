@@ -63,4 +63,10 @@ SO: https://blog.stackoverflow.com/content/Stack-Exchange-Developer-Compensation
       - podcasting (tech)
       - attending hackathons or dev meetups
   
- 
+ Gitlab: https://about.gitlab.com/handbook/people-operations/global-compensation-calculator/#compensation-calculator
+ - Calculate compensation for 200+ metro regions all over the world.
+ - Based on a simple formula.
+ - Based on publicly available data.
+ - That is as accurate as possible given the other constrains.
+
+`Your compensation = NYC benchmark x (0.25 + Rent Index + Hot Market Adjustment) x Level Factor x Experience Factor x Contract Type Factor`
