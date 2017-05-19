@@ -1,8 +1,38 @@
 # Vacation
 
-TODO # define vacation policy
+Following Bloomberg vacation policy for now, seems like a good middle ground
 
-##### Notes
+Years spent at company | Number of days
+--- | --- 
+0 - 9 years | 20 days
+10-19 years | 23 days
+20+ years   | 25 days
+ 
+# Sabbatical 
+
+Every three years, employees in good standing earn a 3 month long sabbatical. 
+If they would like to take their sabbatical as unpaid, they can take leave up to 6 months
+
+If an employee takes a paid sabbatical and leaves (the company) within 6 months, they will be required to pay back a prorated amount of what they were paid. 
+
+# Sick
+  - Unlimited days off for sick
+  - Contact your Manager or TL either the morning of or the day before as a courtesy 
+  - If you are absent for more than three consecutive working days, you must provide a physician's note
+
+  
+# Work From Home
+
+  - Working in the office but not at your own desk is not WFH :)
+  - Working at another office is not WFH
+  - WFH is guaranteed for at least 8 days a month, from there its up to team dynamic
+  - No official cap on how many days you can WFH
+  - You must still phone into any meetings when working from home
+    - it might be best to wfh on days when there are less meetings 
+   
+# Notes
+ 
+##### Vacation Notes
   - ZenPayroll - "we trust and respect our employees and so we allow them to decide whats best for themselves"
   - Netflix, Zynga, Chegg, IBM, NVIDIA - unlimited vacation 
   - CouchSurfing - use our service and take two weeks PTO
@@ -19,29 +49,11 @@ TODO # define vacation policy
   - Yahoo: 15 days
   - Oracle: 13 days
   
-# Sick
-  - Unlimited days off for sick
-  - Contact your Manager or TL either the morning of or the day before as a courtesy 
-  - If you are absent for more than three consecutive working days, you must provide a physician's note
-  
-##### Notes
+##### Sick Days Notes
   - not having unlimited means people will use vacation days when they run out, or come to work when sick
   - having unlimited means people might use it when vacation days run out
-  
 
-# Work From Home
-
-  - Working in the office but not at your own desk is not WFH :)
-  - Working at another office is not WFH
-  - WFH is guaranteed for at least 8 days a month, from there its up to team dynamic
-  - No cap on how many days you can WFH
-  - You must still phone into any meetings when working from home
-    - it might be best to wfh on days when there are less meetings 
-  
-##### Notes
-  
+##### WFH Notes
   - Facebook: WFH wednesdays
   - Yahoo: Got rid of WFH policy, "engagement is up, launches have increased, and agile teams are thriving"
-  
-  
-  
+   
