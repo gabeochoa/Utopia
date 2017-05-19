@@ -7,13 +7,6 @@ Years spent at company | Number of days
 0 - 9 years | 20 days
 10-19 years | 23 days
 20+ years   | 25 days
- 
-# Sabbatical 
-
-Every three years, employees in good standing earn a 3 month long sabbatical. 
-If they would like to take their sabbatical as unpaid, they can take leave up to 6 months
-
-If an employee takes a paid sabbatical and leaves (the company) within 6 months, they will be required to pay back a prorated amount of what they were paid. 
 
 # Sick
   - Unlimited days off for sick
