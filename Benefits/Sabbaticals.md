@@ -19,3 +19,6 @@ Employees are given 3 months to travel or attend school as they see fit without 
 
 If they would like to take their sabbatical as unpaid, they can take leave up to 6 months
 
+## Project Based
+
+#TODO how to do this with safety for both company and employee?
